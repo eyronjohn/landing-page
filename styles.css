@@ -173,3 +173,42 @@ button{
     padding-left: 650px;
     margin: 20px 180px 10px 180px;
 }
+
+.signUp-container{
+    background-color: #FBFBFB;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signUp{
+    margin-left: 40px;
+    background-color: #3572EF;
+    padding: 35px 2px 35px 15px;
+    width: 900px;
+    border-radius: 7px;
+}
+
+.call{
+    font-size: 23px;
+    color: white;
+    padding-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.call1{
+    color: #C9D7DD;
+}
+
+.button2{
+    margin-left: 700px;
+    border-radius: 2px;
+    border: 1px white solid;
+    color: white;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+    padding-top: 4px;
+}
